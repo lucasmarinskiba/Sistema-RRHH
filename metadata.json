@@ -1,0 +1,8 @@
+{
+  "name": "ConstructoraHR System",
+  "description": "Comprehensive HR management system for construction companies featuring employee tracking, project rotation, document management, payroll, and AI-powered assistance.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
